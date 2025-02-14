@@ -5,7 +5,7 @@ Data Analyst
 ------------
 
 * 🌍  I'm based in Accra, Ghana
-* 🖥️  See my portfolio at [Portfolio by Sena](https://sena-codes.github.io/Porfolio/)
+* 🖥️  See my portfolio at [Portfolio by Sena](https://sena-codes.github.io/Portfolio/)
 * ✉️  You can contact me at [sena.logotse](mailto:sena.logotse@gmail.com)
 * 🧠  I'm learning MLops
 
